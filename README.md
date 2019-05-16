@@ -17,7 +17,7 @@ This node application at it's core is a simple SWITCH CASE statement. From the c
 
 ### Dependancies:
 
-fs
-moment
-axios
-node-spotify-api
+* fs
+* moment
+* axios
+* node-spotify-api
