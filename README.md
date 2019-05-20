@@ -6,7 +6,7 @@ This node application at it's core is a simple SWITCH CASE statement. From the c
 * _"concert-this" Artist_
    * Will call the Bands In Town API and return the first result of a concert matching the artist that you entered.
 
-   ![GitHub Logo](/images/concert.png)
+   ![GitHub Logo](./screens/concert.png)
 Format: ![Alt Text](url)
 
 * _"spotify-this-song" Song_
